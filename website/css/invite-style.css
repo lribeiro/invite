@@ -267,11 +267,11 @@ html, body {
 }
 
 #menu a {
-	text-indent: -9999px;
 	display: block;
 	height: 30px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
+  font-size: 2em;
 }
 
 #menu a:hover, #menu .active a {
