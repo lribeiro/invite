@@ -237,7 +237,7 @@ html, body {
 }
 
 #menu .divider {
-	padding-right: 38px;
+	padding-right: 34px;
 	background: url(../images/divider_big.png) no-repeat right;
 	margin-right: 8px;
 }
@@ -268,10 +268,11 @@ html, body {
 
 #menu a {
 	display: block;
-	height: 30px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
   font-size: 2em;
+  font-family: 'Voltaire', sans-serif;
+  font-variant: small-caps;
 }
 
 #menu a:hover, #menu .active a {
