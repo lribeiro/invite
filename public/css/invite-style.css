@@ -483,6 +483,10 @@ h2 {
 	background: url(../images/footer-text.png);
 }
 
+.logo {
+  float:right;
+}
+
 /* @end */
 
 
