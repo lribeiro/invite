@@ -3,22 +3,10 @@ get '/' do
   erb :index
 end
 
-get '/partners' do
-  markdown :partners, :layout_engine => :erb
-end
+markdown_pages = %w(partners people research publications contacts introduction)
 
-get '/people' do
-  markdown :people, :layout_engine => :erb
-end
-
-get '/research' do
-  markdown :research, :layout_engine => :erb
-end
-
-get '/publications' do
-  markdown :publications, :layout_engine => :erb
-end
-
-get '/contacts' do
-  markdown :contacts, :layout_engine => :erb
+markdown_pages.each do |p|
+  get "/#{p}" do
+    markdown p.to_sym, :layout_engine => :erb
+  end
 end
