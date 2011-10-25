@@ -1,6 +1,8 @@
 # Install
 Install ruby
+
 Install sinatra gem
+
 ```bash
 gem install sinatra
 ```
