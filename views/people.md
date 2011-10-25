@@ -1,0 +1,120 @@
+#People
+
+## Rui Prada
+<a class="logo" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/11">
+  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=11&format=raw"> </img>
+</a>
+
+Is currently an assistant professor at the Computer Science
+Department of Instituto Superior Técnico – Technical University of
+Lisbon (IST-UTL), where he teaches courses on User Centred Design,
+Social Intelligent Agents and Game Design and Development. 
+
+His research interests are on social intelligence of virtual agents and its
+application to games. The current research focus is on social power and
+social identification as means to achieve believability in complex
+social situations and on the use of online platforms, such as Facebook
+and OpenSimulator, for serious gaming.  
+
+He is currently the
+vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
+dos Videojogos).
+
+## Carlos Martinho
+<a class="logo" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/7">
+  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=7&format=raw"> </img>
+</a>
+
+Is an Assistant Professor at the Department of Computer Science and
+Engineering of Instituto Superior Técnico from the Technical University
+of Lisbon and a member of GAIPS, Intelligent Agents and Synthetic
+Character Group at INESC-ID.
+ 
+At Instituto Superior Técnico, Carlos Martinho has been helping
+educating Engineers, Masters and Doctors since 1996. His teachings cover
+subjects such as computer graphics, human-computer interaction, game
+design and technology, and artificial life.
+ 
+At GAIPS, since its foundation, he works at the frontier between
+computer graphics and artificial intelligence, building agent-based
+synthetic characters, using approaches from several subfield of
+artificial intelligence such as anticipatory computing, affective
+computing and artificial life.
+
+## Pedro Santos
+<a class="logo" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/43">
+  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=43&format=raw"> </img>
+</a>
+
+Pedro Alexandre Simões dos Santos is Assistant Professor in the Mathematics Department of IST. His numerous scientific interests include:
+
+* Operator Theory
+* Artificial Inteligence
+* Game Theory
+* Game Design
+* History
+
+##Jorge F. Peña, Ph.D.
+<a class="logo" href="http://www.utexas.edu/opa/experts/profile.php?id=1098">
+<img src="http://www.utexas.edu/opa/experts/graphics/thumbnails/Pena_Jorge%20_1098.jpg"> </img>
+</a>
+
+Dr. Pena examines the cognitive, emotional and behavioral foundations of
+computer-mediated interaction. He is interested in how people
+communicate and develop impressions when interacting through
+recreational and instrumental technologies (video games, email, instant
+messenger, etc.). 
+
+His most recent work looks at how priming users with
+social stereotypes through uniforms and roles facilitates non-conscious
+responses in virtual contexts. Dr. Pena employs experiments and content
+analysis as primary research tools.
+
+## Luís Landeiro Ribeiro
+<a class="logo" href="http://www.almansur.net">
+<img src="https://secure.gravatar.com/avatar/c7cfeea5f24515b27e988ccdb61a7414?rating=PG&size=150&default="> </img>
+</a>
+
+Has built and now co-founded a Massive Multiplayer Online Browser Game called Almansur <http://www.almansur.net> with some friends.
+Since that inception has largely left the enterprise world behind and drunk the startup spirit kool-aid, 
+started a large evangelization on his day job company @ <http://www.pdmfc.com> to get everybody up to speed with the lastest piece of tech. 
+Since 2005 has been pushing for Ruby On Rails, Git, Coffescript, JQuery (the list seams to go on forever) and lean development techniques as a replacement for the old arts our company used to built upon.
+
+As a technical evangelist his day job gets him to explore all kinds of
+cool stuff, from building and SMS gateway in mirah
+<http://www.mirah.org> for android, testing jruby head and Openjdk 1.7
+invokedynamic patches to extract every once of performance from our game
+engine, integrating RoR apps into a Liferay corporate portal and
+seamlessly integrate them through SSO.
+
+More recently, has been focused on improving web applications to
+leverage on the HTML5 goodies, exploring canvas, offline storage,
+javascript frameworks (underscore.js, backbone.js, sproutcore) along the
+way, this normally includes sleepless nights debugging some weird edge
+case on some weird browser (read IE9) and trying to get performance up
+to a reasonable level. 
+
+Though ruby continues to be a great love affair,
+finds himself slipping into scala or golang more often when in need of good
+performance or for highly concurrent apps.
+
+## Joana Dimas
+<a class="" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/28">
+  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=28&format=raw"> </img>
+</a>
+
+PHD Student
+
+## Márcia Baptista
+<a class="" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/38">
+  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=38&format=raw"> </img>
+</a>
+
+PHD Student
+
+## Guilherme Raimundo
+<a class="" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/19">
+<img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=19&format=raw"> </img>
+</a>
+
+PHD Student
