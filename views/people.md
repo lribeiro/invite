@@ -46,13 +46,19 @@ computing and artificial life.
   <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=43&format=raw"> </img>
 </a>
 
-Pedro Alexandre Simões dos Santos is Assistant Professor in the Mathematics Department of IST. His numerous scientific interests include:
+Pedro Alexandre Simões dos Santos is Assistant Professor in the
+Mathematics Department of Instituto Superior Técnico – Technical
+University of Lisbon (IST-UTL). He is a member of CEAF (Center for
+Functional Analysis and Applications) and an Associated Researcher at
+INESC-ID.
 
-* Operator Theory
-* Artificial Inteligence
-* Game Theory
-* Game Design
-* History
+He teaches at IST since the last milenium, having started as Teaching
+Assistant (Monitor) in 1989. Since then, he has taught from Calculus and
+Linear Algebra to advanced Operator Algebra courses to Game Design and
+Development courses.
+
+His numerous scientific interests include Operator Theory, Artificial
+Inteligence, Game Theory, Game Design and History.
 
 ##Jorge F. Peña, Ph.D.
 <a class="logo" href="http://www.utexas.edu/opa/experts/profile.php?id=1098">
@@ -118,3 +124,7 @@ PHD Student
 </a>
 
 PHD Student
+
+## Alexandre Barata
+
+Msc Student
