@@ -1,9 +1,9 @@
 #People
 
-## Rui Prada
-<a class="logo" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/11">
-  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=11&format=raw"> </img>
-</a>
+## Rui Prada, Ph.D.
+<span class="logo">
+  <img src="images/rui.png" alt="" />
+</span>
 
 Is currently an assistant professor at the Computer Science
 Department of Instituto Superior Técnico – Technical University of
@@ -20,10 +20,10 @@ He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos).
 
-## Carlos Martinho
-<a class="logo" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/7">
-  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=7&format=raw"> </img>
-</a>
+## Carlos Martinho, Ph.D.
+<span class="logo">
+  <img src="images/carlos.png" alt="" />
+</span>
 
 Is an Assistant Professor at the Department of Computer Science and
 Engineering of Instituto Superior Técnico from the Technical University
@@ -41,10 +41,10 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-## Pedro Santos
-<a class="logo" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/43">
-  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=43&format=raw"> </img>
-</a>
+## Pedro Santos, Ph.D.
+<span class="logo">
+  <img src="images/pedro.png" alt="" />
+</span>
 
 Pedro Alexandre Simões dos Santos is Assistant Professor in the
 Mathematics Department of Instituto Superior Técnico – Technical
@@ -61,9 +61,9 @@ His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.
 
 ##Jorge F. Peña, Ph.D.
-<a class="logo" href="http://www.utexas.edu/opa/experts/profile.php?id=1098">
-<img src="http://www.utexas.edu/opa/experts/graphics/thumbnails/Pena_Jorge%20_1098.jpg"> </img>
-</a>
+<span class="logo">
+	<img src="images/jorge.png" alt="" />
+</span>
 
 Dr. Pena examines the cognitive, emotional and behavioral foundations of
 computer-mediated interaction. He is interested in how people
@@ -77,9 +77,9 @@ responses in virtual contexts. Dr. Pena employs experiments and content
 analysis as primary research tools.
 
 ## Luís Landeiro Ribeiro
-<a class="logo" href="http://www.almansur.net">
-<img src="https://secure.gravatar.com/avatar/c7cfeea5f24515b27e988ccdb61a7414?rating=PG&size=150&default="> </img>
-</a>
+<span class="logo">
+	<img src="images/pedro.png" alt="" />
+</span>
 
 Has built and now co-founded a Massive Multiplayer Online Browser Game called Almansur <http://www.almansur.net> with some friends.
 Since that inception has largely left the enterprise world behind and drunk the startup spirit kool-aid, 
@@ -105,25 +105,25 @@ finds himself slipping into scala or golang more often when in need of good
 performance or for highly concurrent apps.
 
 ## Joana Dimas
-<a class="" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/28">
-  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=28&format=raw"> </img>
-</a>
-
-PHD Student
-
-## Márcia Baptista
-<a class="" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/38">
-  <img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=38&format=raw"> </img>
-</a>
+<span class="logo">
+  <img src="images/joana.png" alt="" />
+</span>
 
 PHD Student
 
 ## Guilherme Raimundo
-<a class="" href="http://gaips.inesc-id.pt/gaips/component/gaips/people/displayPerson/8/19">
-<img src="http://gaips.inesc-id.pt/gaips/component/gaips/people/showPersonImage?pid=19&format=raw"> </img>
-</a>
+<span class="logo">
+	<img src="images/guilherme.png" alt="" />
+</span>
 
 PHD Student
+
+## Márcia Baptista
+<span class="logo">
+  <img src="images/marcia.png" alt="" />
+</span>
+
+Research Assistant
 
 ## Alexandre Barata
 
