@@ -1,3 +1,4 @@
+#!/bin/bash
 update=`git pull`
 
 #check the git pull has pulled new files, if so compile a new AI version
