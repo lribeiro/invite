@@ -1,6 +1,6 @@
 #People
 
-## Rui Prada, Ph.D.
+## Rui Prada, Ph.D. (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt="" />
 </span>
@@ -9,6 +9,7 @@ Is currently an assistant professor at the Computer Science
 Department of Instituto Superior Técnico – Technical University of
 Lisbon (IST-UTL), where he teaches courses on User Centred Design,
 Social Intelligent Agents and Game Design and Development. 
+Is a senior researcher at INESC-ID, member of GAIPS, Intelligent Agents and Synthetic Character Group.
 
 His research interests are on social intelligence of virtual agents and its
 application to games. The current research focus is on social power and
@@ -20,7 +21,7 @@ He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos).
 
-## Carlos Martinho, Ph.D.
+## Carlos Martinho, Ph.D. (INESC-ID)
 <span class="logo">
   <img src="images/carlos.png" alt="" />
 </span>
@@ -41,7 +42,7 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-## Pedro Santos, Ph.D.
+## Pedro Santos, Ph.D. (INESC-ID)
 <span class="logo">
   <img src="images/pedro.png" alt="" />
 </span>
@@ -60,7 +61,7 @@ Development courses.
 His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.
 
-##Jorge F. Peña, Ph.D.
+##Jorge F. Peña, Ph.D. (University of TEXAS)
 <span class="logo">
 	<img src="images/jorge.png" alt="" />
 </span>
@@ -76,7 +77,7 @@ social stereotypes through uniforms and roles facilitates non-conscious
 responses in virtual contexts. Dr. Pena employs experiments and content
 analysis as primary research tools.
 
-## Luís Landeiro Ribeiro
+## Luís Landeiro Ribeiro (PDM&FC)
 <span class="logo">
 	<img src="images/luis.png" alt="" />
 </span>
@@ -104,7 +105,7 @@ Though ruby continues to be a great love affair,
 finds himself slipping into scala or golang more often when in need of good
 performance or for highly concurrent apps.
 
-## Joana Dimas
+## Joana Dimas (IST)
 <span class="logo">
   <img src="images/joana.png" alt="" />
 </span>
@@ -112,7 +113,7 @@ performance or for highly concurrent apps.
 PHD Student
 <br /><br /><br /><br />
 
-## Guilherme Raimundo
+## Guilherme Raimundo (IST)
 <span class="logo">
 	<img src="images/guilherme.png" alt="" />
 </span>
@@ -120,7 +121,7 @@ PHD Student
 PHD Student
 <br /><br /><br /><br />
 
-## Márcia Baptista
+## Márcia Baptista (IST)
 <span class="logo">
   <img src="images/marcia.png" alt="" />
 </span>
@@ -128,6 +129,6 @@ PHD Student
 Research Assistant
 <br /><br /><br /><br />
 
-## Alexandre Barata
+## Alexandre Barata (IST)
 
 Msc Student
