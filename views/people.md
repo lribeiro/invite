@@ -78,7 +78,7 @@ analysis as primary research tools.
 
 ## Luís Landeiro Ribeiro
 <span class="logo">
-	<img src="images/pedro.png" alt="" />
+	<img src="images/luis.png" alt="" />
 </span>
 
 Has built and now co-founded a Massive Multiplayer Online Browser Game called Almansur <http://www.almansur.net> with some friends.
@@ -110,6 +110,7 @@ performance or for highly concurrent apps.
 </span>
 
 PHD Student
+<br /><br /><br /><br />
 
 ## Guilherme Raimundo
 <span class="logo">
@@ -117,6 +118,7 @@ PHD Student
 </span>
 
 PHD Student
+<br /><br /><br /><br />
 
 ## Márcia Baptista
 <span class="logo">
@@ -124,6 +126,7 @@ PHD Student
 </span>
 
 Research Assistant
+<br /><br /><br /><br />
 
 ## Alexandre Barata
 
