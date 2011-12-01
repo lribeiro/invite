@@ -12,3 +12,8 @@ gem install sinatra
 
 # Production
     rackup -I . -E production -p 4567 -d
+
+# Help scripts
+    startup.sh
+    shutdown.sh
+    update.sh
