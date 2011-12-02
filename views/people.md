@@ -110,8 +110,12 @@ performance or for highly concurrent apps.
   <img src="images/joana.png" alt="" />
 </span>
 
-PHD Student
-<br /><br /><br /><br />
+Joana Dimas is graduated in Social Psychology and is currently doing a
+PhD in Information Systems and Computer Engineering under the
+supervision of Prof. Rui Prada.
+
+She is interested in game design, player experience, emotion in games
+and cognitive science.
 
 ## Guilherme Raimundo (INESC-ID)
 <span class="logo">
