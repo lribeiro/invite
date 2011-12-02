@@ -1,6 +1,6 @@
 #People
 
-## Rui Prada, Ph.D. (INESC-ID)
+## Rui Prada (INESC-ID)
 <span class="logo">
   <img src="images/rui.png" alt="" />
 </span>
@@ -21,7 +21,7 @@ He is currently the
 vice-president of the SPCVideojogos (Sociedade Portuguesa de Ciências
 dos Videojogos).
 
-## Carlos Martinho, Ph.D. (INESC-ID)
+## Carlos Martinho (INESC-ID)
 <span class="logo">
   <img src="images/carlos.png" alt="" />
 </span>
@@ -42,7 +42,7 @@ synthetic characters, using approaches from several subfield of
 artificial intelligence such as anticipatory computing, affective
 computing and artificial life.
 
-## Pedro Santos, Ph.D. (INESC-ID)
+## Pedro Santos (INESC-ID)
 <span class="logo">
   <img src="images/pedro.png" alt="" />
 </span>
@@ -61,7 +61,7 @@ Development courses.
 His numerous scientific interests include Operator Theory, Artificial
 Inteligence, Game Theory, Game Design and History.
 
-##Jorge F. Peña, Ph.D. (University of TEXAS)
+##Jorge F. Peña (University of TEXAS)
 <span class="logo">
 	<img src="images/jorge.png" alt="" />
 </span>
@@ -105,7 +105,7 @@ Though ruby continues to be a great love affair,
 finds himself slipping into scala or golang more often when in need of good
 performance or for highly concurrent apps.
 
-## Joana Dimas (IST)
+## Joana Dimas (INESC-ID)
 <span class="logo">
   <img src="images/joana.png" alt="" />
 </span>
@@ -113,7 +113,7 @@ performance or for highly concurrent apps.
 PHD Student
 <br /><br /><br /><br />
 
-## Guilherme Raimundo (IST)
+## Guilherme Raimundo (INESC-ID)
 <span class="logo">
 	<img src="images/guilherme.png" alt="" />
 </span>
